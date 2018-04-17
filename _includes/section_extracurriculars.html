@@ -1,6 +1,6 @@
 <div class="rounded_panel txt_lightgrey">
 	<div class="top-rounded-panel grey-bg">
-		<h1>Work Experience</h1>
+		<h1>Extracurricular Activities</h1>
 	</div>
 	<div class="content-rounded-panel">
 		<div>
@@ -11,17 +11,17 @@
 						<th><a style="cursor: pointer;">Title</a></th>
 						<th><a style="cursor: pointer;">Start Date</a></th>
 						<th><a style="cursor: pointer;">End Date</a></th>
-						<th class="hidden-sm hidden-xs" ><a style="cursor: pointer;">Description</a></th>
+						<th><a style="cursor: pointer;">Description</a></th>
 					</tr>
 				</thead>
 				<tbody>
 					{% for extracurriculars in site.extracurriculars %}
 						<tr>
-							<td>{{role.organization}}</td>
-							<td>{{role.title}}</td>
-							<td>{{role.start}}</td>
-							<td>{{role.end}}</td>
-							<td class="hidden-sm hidden-xs" >{{role.description}}</td>
+							<td>{{extracurriculars.organization}}</td>
+							<td>{{extracurriculars.title}}</td>
+							<td>{{extracurriculars.start}}</td>
+							<td>{{extracurriculars.end}}</td>
+							<td>{{extracurriculars.description}}</td>
 						</tr>
 					{% endfor %}
 				</tbody>
