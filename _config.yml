@@ -10,6 +10,8 @@ markdown: kramdown
 primarylinks:
  - title: LinkedIn
    url: https://www.linkedin.com/in/sahildpatel
+ - title: Email
+   url: mailto:sahildp44@gmail.com
 
 #Any buzzword skills you want to include
 skills:
