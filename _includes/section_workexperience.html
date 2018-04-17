@@ -11,17 +11,17 @@
 						<th><a style="cursor: pointer;">Start Date</a></th>
 						<th><a style="cursor: pointer;">End Date</a></th>
 						<th><a style="cursor: pointer;">Company</a></th>
-						<th class="hidden-sm hidden-xs" ><a style="cursor: pointer;">Role</a></th>
+						<th><a style="cursor: pointer;">Description</a></th>
 					</tr>
 				</thead>
 				<tbody>
-					{% for role in site.roles %}
+					{% for experience in site.experience %}
 						<tr>
 							<td>{{role.title}}</td>
 							<td>{{role.start}}</td>
 							<td>{{role.end}}</td>
 							<td>{{role.employer}}</td>
-							<td class="hidden-sm hidden-xs" >{{role.description}}</td>
+							<td>{{role.description}}</td>
 						</tr>
 					{% endfor %}
 				</tbody>
