@@ -9,9 +9,7 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: SoundCloud
-   url: https://soundcloud.com/sahil_p
+   url: https://www.linkedin.com/in/sahildpatel
 
 #Any buzzword skills you want to include
 skills:
@@ -21,7 +19,7 @@ skills:
  - Salesforce
  - Google BigQuery
  - GoodData
- - Stata
+ - STATA
  
 #Work experience is required
 experience:
@@ -29,7 +27,8 @@ experience:
    start: June 2017
    end: May 2018
    employer: Zendesk
-   description: Analyzed product data to understand monetization strategy for the freemium plan for the Zendesk Talk product. Conclusion led to key strategic decisions around the future of the plan. Presented Zendesk Talk data for weekly and monthly management meetings. Created Salesforce reports to enable sales specialists to more efficiently evaluate performance. Designed a dashboard in Zendesk Explore to display Zendesk Talk data from various sources in a consolidated view for internal teams to use. Provided continued part-time support as the only intern from the cohort to work remotely during the school year.
+   description: - Analyzed product data to understand monetization strategy for the freemium plan for the Zendesk Talk product. 
+                - Conclusion led to key strategic decisions around the future of the plan. Presented Zendesk Talk data for weekly and monthly management meetings. Created Salesforce reports to enable sales specialists to more efficiently evaluate performance. Designed a dashboard in Zendesk Explore to display Zendesk Talk data from various sources in a consolidated view for internal teams to use. Provided continued part-time support as the only intern from the cohort to work remotely during the school year.
  - title: Business Development Intern
    start: June 2016
    end: December 2016
