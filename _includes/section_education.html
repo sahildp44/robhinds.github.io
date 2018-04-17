@@ -11,6 +11,7 @@
 						<th><a style="cursor: pointer;">Subject</a></th>
 						<th><a style="cursor: pointer;">Date Completed</a></th>
 						<th class="hidden-sm hidden-xs" ><a style="cursor: pointer;">University</a></th>
+						<th><a style="cursor: pointer;">GPA</a></th>
 					</tr>
 				</thead>
 				<tbody>
@@ -19,6 +20,9 @@
 							<td>{{edu.level}}</td>
 							<td>{{edu.subject}}</td>
 							<td>{{edu.date}}</td>
+							<td>{{edu.school}}</td>
+							<td>{{edu.gpa}}</td>
+							
 							<td class="hidden-sm hidden-xs" >{{edu.school}}</td>
 						</tr>
 					{% endfor %}
