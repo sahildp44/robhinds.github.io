@@ -15,11 +15,13 @@
 					</tr>
 				</thead>
 				<tbody>
-							<td>{{edu.level}}</td>
-							<td>{{edu.subject}}</td>
-							<td>{{edu.date}}</td>
-							<td>{{edu.school}}</td>
-							<td>{{edu.gpa}}</td>
+					{% for education in site.education %}
+						<tr>
+							<td>{{education.level}}</td>
+							<td>{{education.subject}}</td>
+							<td>{{education.date}}</td>
+							<td>{{education.school}}</td>
+							<td>{{education.gpa}}</td>
 						</tr>
 					{% endfor %}
 				</tbody>
