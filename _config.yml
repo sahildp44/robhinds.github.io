@@ -12,20 +12,33 @@ primarylinks:
    url: https://www.linkedin.com/in/sahildpatel
  - title: Email
    url: mailto:sahildp44@gmail.com
+ - title: Salesforce Verification
+   url: http://certification.salesforce.com/verification-email?init=1&email=sahildp44@gmail.com
 
 #Any buzzword skills you want to include
 skills:
+ - Certified Salesforce Administrator
  - Excel
- - SQL
+ - Google Sheets
+ - MySQL
  - R
- - Salesforce
- - Google BigQuery
- - GoodData
  - STATA
+ - Google BigQuery
+ - Google Analytics
  
 #Work experience is required
 experience:
- - title: Business Analyst Intern
+ - title: SDR & Sales Operations Intern
+   start: May 2018
+   end: Present
+   employer: Worklete
+   description: Set 51 meetings over 6 weeks to create a sales pipeline of over $1,000,000 and drive new business growth. Deployed and managed Salesforce as Salesforce Admin to optimize sales process and improve pipeline tracking. Created custom fields and reports in Salesforce to enable more detailed reporting on deals and leads. Analyzed injury data from clients to aid with customer success by providing evidence of successful injury reduction. Created sales performance reports for board of directors using Salesforce data to summarize future revenue growth. Providing continued support for Sales Operations and Data Analytics as a full-time student. Spearheaded SDR program as first SDR by developing a playbook for sales team and leading outreach campaigns.
+- title: Salesforce Consultant
+   start: August 2018
+   end: Present
+   employer: The Bulk Bag Company
+   description: Decreased time spent managing Salesforce data by 50% by implementing best practices for Sales team. Created custom reports for Sales team to easily track deals, leads, and customers. Set up integrations with marketing software to increase efficiency of email campaigns. Improved data management to mitigate issues with duplicate and  incomplete records
+- title: Business Analyst Intern
    start: June 2017
    end: May 2018
    employer: Zendesk
@@ -47,17 +60,13 @@ education:
    subject: Economics
    date: May 2019
    school: University of California, Berkeley
-   gpa: 3.56
+   gpa: 3.62
 
 extracurriculars:
 - organization: The Berkeley Project
   title: Financial Affairs Committee Member
   dates: January 2018 &#x2010; present
-  description: Managed budgets for various committees to plan annual spending. Secured sponsorships from local businesses and corporations.
-- organization: Berkeley Technology Review
-  title: Marketing Lead
-  dates: August 2016 &#x2010; present
-  description: Developed a social media marketing strategy to increase readership of online and print publications. Established a marketing plan to tap into UC Berkeley’s population of writers and expand BTR’s content production.  
+  description: Managed budgets for various committees to plan annual spending. Secured sponsorships from local businesses and corporations. Wrote grant applications to secure funding from UC Berkeley and City of Berkeley.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 #additionalinfo: |
