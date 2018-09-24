@@ -32,27 +32,27 @@ experience:
    start: May 2018
    end: Present
    employer: Worklete
-   description: Set 51 meetings over 6 weeks to create a sales pipeline of over $1,000,000 and drive new business growth. Deployed and managed Salesforce as Salesforce Admin to optimize sales process and improve pipeline tracking. Created custom fields and reports in Salesforce to enable more detailed reporting on deals and leads. Analyzed injury data from clients to aid with customer success by providing evidence of successful injury reduction. Created sales performance reports for board of directors using Salesforce data to summarize future revenue growth. Providing continued support for Sales Operations and Data Analytics as a full-time student. Spearheaded SDR program as first SDR by developing a playbook for sales team and leading outreach campaigns.
+   description: Set 51 meetings over 6 weeks to create a sales pipeline of over $1,000,000 and drive new business growth. <br/> Deployed and managed Salesforce as Salesforce Admin to optimize sales process and improve pipeline tracking. <br/> Created custom fields and reports in Salesforce to enable more detailed reporting on deals and leads. <br/> Analyzed injury data from clients to aid with customer success by providing evidence of successful injury reduction. <br/> Created sales performance reports for board of directors using Salesforce data to summarize future revenue growth. <br/> Providing continued support for Sales Operations and Data Analytics as a full-time student. <br/> Spearheaded SDR program as first SDR by developing a playbook for sales team and leading outreach campaigns.
  - title: Salesforce Consultant
    start: August 2018
    end: Present
    employer: The Bulk Bag Company
-   description: Decreased time spent managing Salesforce data by 50% by implementing best practices for Sales team. Created custom reports for Sales team to easily track deals, leads, and customers. Set up integrations with marketing software to increase efficiency of email campaigns. Improved data management to mitigate issues with duplicate and  incomplete records
+   description: Decreased time spent managing Salesforce data by 50% by implementing best practices for Sales team. <br/> Created custom reports for Sales team to easily track deals, leads, and customers. <br/> Set up integrations with marketing software to increase efficiency of email campaigns. <br/> Improved data management to mitigate issues with duplicate and incomplete records.
  - title: Business Analyst Intern
    start: June 2017
    end: March 2018
    employer: Zendesk
-   description: Analyzed product data to understand monetization strategy for the freemium plan for the Zendesk Talk product. Conclusion led to key strategic decisions around the future of the plan. Presented Zendesk Talk data for weekly and monthly management meetings. Created Salesforce reports to enable sales specialists to more efficiently evaluate performance. Designed a dashboard in Zendesk Explore to display Zendesk Talk data from various sources in a consolidated view for internal teams to use. Provided continued part-time support as the only intern from the cohort to work remotely during the school year.
+   description: Analyzed product data to understand monetization strategy for the freemium plan for the Zendesk Talk product. <br/> Conclusion led to key strategic decisions around the future of the plan. <br/> Presented Zendesk Talk data for weekly and monthly management meetings. <br/> Created Salesforce reports to enable sales specialists to more efficiently evaluate performance. <br/> Designed a dashboard in Zendesk Explore to display Zendesk Talk data from various sources in a consolidated view for internal teams to use. <br/> Provided continued part-time support as the only intern from the cohort to work remotely during the school year.
  - title: Business Development Intern
    start: June 2016
    end: December 2016
    employer: Helios RE LLC
-   description: Created investor pitches, developed a business strategy, and worked to establish a MVP through the Cleantech Organization’s accelerator program. Designed an outreach program to gauge market interest in product features. Collaborated with CEO and engineers to propose product improvements to increase potential customers.
+   description: Created investor pitches, developed a business strategy, and worked to establish a MVP through the Cleantech Organization’s accelerator program. <br/> Designed an outreach program to gauge market interest in product features. <br/> Collaborated with CEO and engineers to propose product improvements to increase potential customers.
  - title: Client Relations Intern
    start: June 2016
    end: August 2016
    employer: Regreen Technologies
-   description: Produced product videos to convey Regreen’s value proposition to prospective clients from El Salvador and Singapore. Edited patent to further assist the team.
+   description: Produced product videos to convey Regreen’s value proposition to prospective clients from El Salvador and Singapore. <br/> Edited patent to further assist the team.
 
 #Education is required
 education:
@@ -66,7 +66,7 @@ extracurriculars:
 - organization: The Berkeley Project
   title: Financial Affairs Committee Member
   dates: January 2018 - present
-  description: Managed budgets for various committees to plan annual spending. Secured sponsorships from local businesses and corporations. Wrote grant applications to secure funding from UC Berkeley and City of Berkeley.
+  description: Managed budgets for various committees to plan annual spending. <br/> Secured sponsorships from local businesses and corporations. <br/> Wrote grant applications to secure funding from UC Berkeley and City of Berkeley.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 #additionalinfo: |
