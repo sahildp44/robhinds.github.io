@@ -61,6 +61,9 @@ education:
    date: May 2019
    school: University of California, Berkeley
    gpa: 3.62
+ - finance coursework: Intro to Finance, Financial Economics, Behavioral & Financial Economics, Spreadsheet Modeling
+ - economics coursework: Macroeconomics, Microeconomics, Game Theory, Economics and Psychology
+ - data analysis coursework: Econometrics w/ Stata, Statistics w/ R in RStudio, Intro Data Science w/ Python
 
 extracurriculars:
 - organization: The Berkeley Project
