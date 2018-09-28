@@ -7,8 +7,8 @@
 			<table class="table table-striped table-hover table-condensed">
 				<thead>
 					<tr>
-						<th><a style="cursor: pointer;">Certification</a></th>
-						<th><a style="cursor: pointer;">Subject</a></th>
+						<th><a style="cursor: pointer;">Degree</a></th>
+						<th><a style="cursor: pointer;">Major</a></th>
 						<th><a style="cursor: pointer;">Expected Graduation</a></th>
 						<th><a style="cursor: pointer;">University</a></th>
 						<th><a style="cursor: pointer;">GPA</a></th>
@@ -22,6 +22,50 @@
 							<td>{{education.date}}</td>
 							<td>{{education.school}}</td>
 							<td>{{education.gpa}}</td>
+						</tr>
+					{% endfor %}
+				</tbody>
+			</table>
+			<table class="table table-striped table-hover table-condensed">
+				<thead>
+					<tr>
+						<th><a style="cursor: pointer;">Finance Coursework</a></th>
+					</tr>
+				</thead>
+				<tbody>
+					{% for education in site.education %}
+						<tr>
+							<td>{{education.finance}}</td>
+						</tr>
+					{% endfor %}
+				</tbody>
+			</table>
+			</table>
+			<table class="table table-striped table-hover table-condensed">
+				<thead>
+					<tr>
+						<th><a style="cursor: pointer;">Finance Coursework</a></th>
+					</tr>
+				</thead>
+				<tbody>
+					{% for education in site.education %}
+						<tr>
+							<td>{{education.economics}}</td>
+						</tr>
+					{% endfor %}
+				</tbody>
+			</table>
+		</table>
+			<table class="table table-striped table-hover table-condensed">
+				<thead>
+					<tr>
+						<th><a style="cursor: pointer;">Finance Coursework</a></th>
+					</tr>
+				</thead>
+				<tbody>
+					{% for education in site.education %}
+						<tr>
+							<td>{{education.data}}</td>
 						</tr>
 					{% endfor %}
 				</tbody>
